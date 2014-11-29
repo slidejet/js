@@ -3,5 +3,5 @@ js
 
 JavaScript files
 Repository with js files
-[Load lib.js file](https://rawgit.com/slidejet/js/master/lib.js)
+[Load index.html file](https://rawgit.com/slidejet/js/master/index.html)
 End.
